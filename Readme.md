@@ -47,18 +47,6 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 - Game Development
 - 3D Modeling and Animation (Blender only)
 
-#### Top Repositories
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-
 - 🎯 Portfolio website: [Portfolio](https://github.com/kutkarshh/kutkarsh)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
@@ -69,13 +57,21 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 <a href="https://github.com/kutkarshh/kutkarsh">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kutkarshh&theme=merko&hide_border=false" />
 </a>
-<br>
-<br>
 <a href="https://github.com/kutkarshh/kutkarsh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=merko&show_icons=true&hide_border=false&layout=compact" />
 </a>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<br>
+<br>
+#### Top Repositories
+
+<a href="https://github.com/kutkarshh/BookingApp">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://www.linkedin.com/in/kutkarshh">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
