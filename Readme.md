@@ -75,8 +75,8 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 ### ✍️ Random Dev Quote
 
-<p align="center">
-  <img alt="Utkarsh K | Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<p align="center" target="_blank">
+  <img alt="Utkarsh K | Quote"  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ### 😂 Random Dev Meme
