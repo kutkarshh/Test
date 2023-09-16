@@ -71,7 +71,6 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 ---
 
-<br/>
 
 ### ✍️ Random Dev Quote
 
