@@ -67,7 +67,7 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
   <img align="center" alt="Utkarsh K | Trophies" src="https://github-profile-trophy.vercel.app/?username=kutkarshh&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
-<br/>
+---
 
 ### ✍️ Random Dev Quote
 
@@ -75,7 +75,6 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
   <img align="center" alt="Utkarsh K | Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<br/>
 
 ### 😂 Random Dev Meme
 
@@ -92,3 +91,4 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 [linkedin]: https://www.linkedin.com/in/kutkarshh
 [twitter]: https://twitter.com/Kumar6K1
+<a href="https://vercel.com/"><img alt="Powered by Vercel" title="Powered by Vercel" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
