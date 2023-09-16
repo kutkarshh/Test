@@ -73,11 +73,11 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
   <img align="right" alt="Utkarsh K | Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<!-- <div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3> -->
 
 <!--[website]: -->
 
