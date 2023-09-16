@@ -9,7 +9,7 @@
 
 <br />
 
-I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skill set that includes React.js, nodeJS, Spring Boot, Tailwind CSS, Bootstrap, JavaScript, TypeScript, MySQL, and MongoDB. 
+I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skill set that includes React.js, nodeJS, Spring Boot, Tailwind CSS, Bootstrap, JavaScript, TypeScript, MySQL, and MongoDB.
 
 **About me**
 
@@ -39,24 +39,15 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 <br>
 <br>
 
-
 ### Things I love <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :
 
-- Java 
+- Java
 - Frontend Development ✍️
 - Backend Development ✍️
 - Game Development
 - 3D Modeling and Animation (Blender only)
 
 #### Top Repositories
-
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
 
 <br />
 <br />
@@ -66,8 +57,7 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 </a>
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a> -->
-
+</a>
 
 - 🎯 Portfolio website: [Portfolio](https://github.com/kutkarshh/kutkarsh)
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -76,10 +66,13 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 ### :zap: Github Stats
 
+<a href="https://github.com/kutkarshh/kutkarsh">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kutkarshh&theme=merko&hide_border=false" />
+</a>
 
-<p>
-    ![kutkarshh's Stats](https://github-readme-stats.vercel.app/api?username=kutkarshh&theme=merko&show_icons=true&hide_border=false&count_private=true)
-</p>
+<a href="https://github.com/kutkarshh/kutkarsh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=merko&show_icons=true&hide_border=false&layout=compact" />
+</a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
