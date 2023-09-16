@@ -69,8 +69,6 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 <a href="https://github.com/kutkarshh/BookingApp">
   <img align="right" alt="Utkarsh K | BookingApp"  src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
-<br>
-<br>
 <a href="https://www.linkedin.com/in/kutkarshh">
   <img align="right" alt="Utkarsh K | Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
