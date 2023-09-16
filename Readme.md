@@ -48,8 +48,8 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 <br/>
 <br/>
 
-<a href="https://github.com/kutkarshh">
-  <img align="center" alt="Utkarsh K | Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kutkarshh&theme=onedark&hide_border=true" />
+<a align="center" href="https://github.com/kutkarshh">
+  <img alt="Utkarsh K | Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kutkarshh&theme=onedark&hide_border=true" />
 </a>
 
 <br/>
