@@ -39,21 +39,21 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img  alt="Utkarsh K | Stats"  src="https://github-readme-stats.vercel.app/api?username=kutkarshh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img  alt="Utkarsh K | Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img  alt="Utkarsh K | Stats"  src="https://github-readme-stats.vercel.app/api?username=kutkarshh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img  alt="Utkarsh K | Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 <p align="center">
-  <img alt="Utkarsh K | Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kutkarshh&theme=onedark&hide_border=true" />
+  <img alt="Utkarsh K | Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kutkarshh&theme=radical&hide_border=true" />
 </p>
 <br/>
 
 ## Top Repositories
 
 <a href="https://github.com/kutkarshh/BookingApp">
-  <img align="center" alt="Utkarsh K | BookingApp"  src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=onedark" />
+  <img align="center" alt="Utkarsh K | BookingApp"  src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
 </a>
 <a href="https://www.linkedin.com/in/kutkarshh">
-  <img align="center" alt="Utkarsh K | Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=onedark" />
+  <img align="center" alt="Utkarsh K | Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
 </a>
 
 <br/>
@@ -62,7 +62,7 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img align="center" alt="Utkarsh K | Trophies" src="https://github-profile-trophy.vercel.app/?username=kutkarshh&theme=darkhub&no-frame=false&no-bg=false&margin-w=2" />
+  <img align="center" alt="Utkarsh K | Trophies" src="https://github-profile-trophy.vercel.app/?username=kutkarshh&theme=radical&no-frame=false&no-bg=false&margin-w=2" />
 </p>
 
 <br/>
