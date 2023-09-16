@@ -90,11 +90,11 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 [linkedin]: https://www.linkedin.com/in/kutkarshh
 [twitter]: https://twitter.com/Kumar6K1
 
-[![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
-
 <div align="center">
 <h3 align="center">Contributions are welcome! <3</h3>
 <h3 align="center">Made with :heart: and with the help of other git-stat dev's sources</h3>
 
 <div align="center">
 <h3 align="center">Show some support&nbsp;😊👋&nbsp; by starring some of the repositories!</h3>
+
+[![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
