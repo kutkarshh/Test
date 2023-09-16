@@ -78,7 +78,7 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 <br>
 <br>
 
-<!-- <div align="center"> -->
+<div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
