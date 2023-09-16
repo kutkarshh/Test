@@ -63,6 +63,10 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 <br>
 <br>
+
+| <a href="https://github.com/kutkarshh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Utkarsh's github stats" /></a> | <a href="https://github.com/kutkarshh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 #### Top Repositories
 
 <a href="https://github.com/kutkarshh/BookingApp">
