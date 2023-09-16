@@ -7,8 +7,6 @@
 # 💫 About Me:
 I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skill set that includes React.js, nodeJS, Spring Boot, Tailwind CSS, Bootstrap, JavaScript, TypeScript, MySQL, and MongoDB.
 
-<br><br>
-
 - 💼 Software Engineer at [Cognizant](https://www.cognizant.com/in/en)<br><br>- 📈 Developed React and Angular Framework applications with Node.js and Spring Boot for US clients, delivering high-quality products. Also a Freelance 3D modeler and game developer, created and published several small games on the Play Store.<br>
 
 ## 🌐 Socials:
