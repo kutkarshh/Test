@@ -91,4 +91,4 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 [linkedin]: https://www.linkedin.com/in/kutkarshh
 [twitter]: https://twitter.com/Kumar6K1
-<a href="https://vercel.com/"><img alt="Powered by Vercel" title="Powered by Vercel" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://vercel.com/"><img alt="Powered by Vercel" title="Powered by Vercel" src="https://img.shields.io/badge/-Powered%20by%20Vercel-6567a5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
