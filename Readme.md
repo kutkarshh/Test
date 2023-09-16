@@ -65,8 +65,6 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
   <img align="center" alt="Utkarsh K | Trophies" src="https://github-profile-trophy.vercel.app/?username=kutkarshh&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
-<br/>
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
