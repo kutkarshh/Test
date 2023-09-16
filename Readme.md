@@ -1,4 +1,3 @@
-<div style="background-color: #000000">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Utkarsh%20Kumar&fontSize=90)
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
