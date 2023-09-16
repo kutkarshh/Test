@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Utkarsh%20Kumar&fontSize=90)
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
+</div>
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Utkarsh Kumar 👋</h3> -->
 
 ### नमस्ते (Namaste)🙏🏻, I am Utkarsh Kumar 👋
