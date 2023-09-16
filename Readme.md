@@ -43,7 +43,7 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kutkarshh&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-#### Top Repositories
+## Top Repositories
 
 <a href="https://github.com/kutkarshh/BookingApp">
   <img align="center" alt="Utkarsh K | BookingApp"  src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
