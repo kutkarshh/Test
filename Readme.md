@@ -57,6 +57,7 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 <a href="https://github.com/kutkarshh/kutkarsh">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kutkarshh&theme=merko&hide_border=false" />
 </a>
+<br>
 <a href="https://github.com/kutkarshh/kutkarsh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=merko&show_icons=true&hide_border=false&layout=compact" />
 </a>
