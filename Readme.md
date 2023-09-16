@@ -38,19 +38,19 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 # 📊 GitHub Stats:
 
-<a href="https://github.com/kutkarshh">
-  <img align="center" alt="Utkarsh K | Stats"  src="https://github-readme-stats.vercel.app/api?username=kutkarshh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/kutkarshh">
-  <img align="center" alt="Utkarsh K | Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</a>
+<p align="center">
+  <img  alt="Utkarsh K | Stats"  src="https://github-readme-stats.vercel.app/api?username=kutkarshh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img  alt="Utkarsh K | Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 <br/>
 <br/>
 
-<a align="center" href="https://github.com/kutkarshh">
+<p align="center">
   <img alt="Utkarsh K | Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kutkarshh&theme=onedark&hide_border=true" />
-</a>
+</p>
 
 <br/>
 <br/>
