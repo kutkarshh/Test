@@ -35,18 +35,19 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 - 📬 How to reach me: [Tweet on X][twitter]
 
 <br/>
-<br/>
-
-<!--[website]: -->
-
-[linkedin]: https://www.linkedin.com/in/kutkarshh
-[twitter]: https://twitter.com/Kumar6K1
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=kutkarshh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kutkarshh&theme=onedark&hide_border=true)<br/>
+<a href="https://github.com/kutkarshh">
+  <img align="center" alt="Utkarsh K | Stats"  src="https://github-readme-stats.vercel.app/api?username=kutkarshh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/kutkarshh">
+  <img align="center" alt="Utkarsh K | Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</a>
+<br/>
+<a href="https://github.com/kutkarshh">
+  <img align="center" alt="Utkarsh K | Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kutkarshh&theme=onedark&hide_border=true" />
+</a>
 
 <br/>
 <br/>
@@ -87,3 +88,8 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
+<!--[website]: -->
+
+[linkedin]: https://www.linkedin.com/in/kutkarshh
+[twitter]: https://twitter.com/Kumar6K1
