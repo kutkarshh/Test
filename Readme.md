@@ -84,6 +84,7 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
+[![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kutkarshh)](https://github.com/kutkarshh/kutkarsh)
 <!--[website]: -->
 
 [linkedin]: https://www.linkedin.com/in/kutkarshh
