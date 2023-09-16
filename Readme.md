@@ -39,22 +39,22 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img  alt="Utkarsh K | Stats"  src="https://github-readme-stats.vercel.app/api?username=kutkarshh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img  alt="Utkarsh K | Stats" target="_blank" src="https://github-readme-stats.vercel.app/api?username=kutkarshh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 <p align="center"> 
-  <img  alt="Utkarsh K | Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=pie" />
+  <img  alt="Utkarsh K | Languages" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=pie" />
 </p>
 <p align="center">
-  <img alt="Utkarsh K | Streak" src="https://github-readme-streak-stats-five-gules.vercel.app?user=kutkarshh&theme=radical" />
+  <img alt="Utkarsh K | Streak" target="_blank" src="https://github-readme-streak-stats-five-gules.vercel.app?user=kutkarshh&theme=radical" />
 </p>
 <br/>
 
 ## Top Repositories
 
-<a href="https://github.com/kutkarshh/BookingApp">
+<a href="https://github.com/kutkarshh/BookingApp" target="_blank">
   <img align="center" alt="Utkarsh K | BookingApp"  src="https://github-readme-stats.vercel.app/api/pin/?username=kutkarshh&repo=BookingApp&theme=radical" />
 </a>
-<a href="https://www.linkedin.com/in/kutkarshh">
+<a href="https://www.linkedin.com/in/kutkarshh" target="_blank">
   <img align="center" alt="Utkarsh K | Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=kutkarshh&repo=kutkarsh&theme=radical" />
 </a>
 
