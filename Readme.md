@@ -51,11 +51,11 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 ## Top Repositories
 
-<a href="https://github.com/kutkarshh/BookingApp" target="_blank">
-  <img align="center" alt="Utkarsh K | BookingApp"  src="https://github-readme-stats.vercel.app/api/pin/?username=kutkarshh&repo=BookingApp&theme=radical" />
+<a href="https://github.com/kutkarshh/BookingApp" >
+  <img align="center" alt="Utkarsh K | BookingApp" target="_blank"  src="https://github-readme-stats.vercel.app/api/pin/?username=kutkarshh&repo=BookingApp&theme=radical" />
 </a>
-<a href="https://www.linkedin.com/in/kutkarshh" target="_blank">
-  <img align="center" alt="Utkarsh K | Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=kutkarshh&repo=kutkarsh&theme=radical" />
+<a href="https://www.linkedin.com/in/kutkarshh" >
+  <img align="center" alt="Utkarsh K | Portfolio" target="_blank" src="https://github-readme-stats.vercel.app/api/pin/?username=kutkarshh&repo=kutkarsh&theme=radical" />
 </a>
 
 <br/>
