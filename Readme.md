@@ -35,9 +35,10 @@
 <br>
 <br>
 
-### Things I love:
 
-- Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Things I love <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :
+
+- Java 
 - Frontend Development ✍️
 - Backend Development ✍️
 
