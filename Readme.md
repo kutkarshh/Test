@@ -57,7 +57,6 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 <a href="https://github.com/kutkarshh/kutkarsh">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kutkarshh&theme=merko&hide_border=false" />
 </a>
-<br>
 <a href="https://github.com/kutkarshh/kutkarsh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=merko&show_icons=true&hide_border=false&layout=compact" />
 </a>
@@ -73,13 +72,13 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 <br>
 <br>
 <a href="https://www.linkedin.com/in/kutkarshh">
-  <img align="right" alt="Utkarsh K | Portfolio" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="right" alt="Utkarsh K | Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br>
 <br>
 
-<div align="center">
+<!-- <div align="center"> -->
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
