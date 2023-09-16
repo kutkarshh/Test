@@ -97,4 +97,5 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 <div align="center">
 <h3 align="center">Show some support&nbsp;😊👋&nbsp; by starring some of the repositories!</h3>
 
+<br/>
 [![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
