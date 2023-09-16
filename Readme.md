@@ -4,6 +4,8 @@
 
 ### नमस्ते (Namaste)🙏🏻, I am Utkarsh Kumar 👋
 
+[![](https://visitcount.itsvg.in/api?id=kutkarshh&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 
 I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skill set that includes React.js, nodeJS, Spring Boot, Tailwind CSS, Bootstrap, JavaScript, TypeScript, MySQL, and MongoDB.
@@ -46,6 +48,9 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kutkarshh&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kutkarshh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<br/>
+<br/>
+
 ## Top Repositories
 
 <a href="https://github.com/kutkarshh/BookingApp">
@@ -55,19 +60,22 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
   <img align="center" alt="Utkarsh K | Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
+<br/>
+<br/>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img align="center" alt="Utkarsh K | Trophies" src="https://github-profile-trophy.vercel.app/?username=kutkarshh&theme=darkhub&no-frame=false&no-bg=false&margin-w=2" />
 </p>
 
+<br/>
+
 ### ✍️ Random Dev Quote
 
 <p align="center">
   <img align="center" alt="Utkarsh K | Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
 
 ### 😂 Random Dev Meme
 
@@ -76,8 +84,6 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 </p>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=kutkarshh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
