@@ -50,10 +50,10 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 ## Top Repositories
 
 <a href="https://github.com/kutkarshh/BookingApp">
-  <img align="center" alt="Utkarsh K | BookingApp"  src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" alt="Utkarsh K | BookingApp"  src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=onedark" />
 </a>
 <a href="https://www.linkedin.com/in/kutkarshh">
-  <img align="center" alt="Utkarsh K | Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" alt="Utkarsh K | Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=onedark" />
 </a>
 
 <br/>
@@ -84,7 +84,6 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-[![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kutkarshh)](https://github.com/kutkarshh/kutkarsh)
 <!--[website]: -->
 
 [linkedin]: https://www.linkedin.com/in/kutkarshh
