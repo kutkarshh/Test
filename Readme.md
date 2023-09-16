@@ -3,7 +3,7 @@
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Utkarsh Kumar 👋</h3> -->
 
-### >नमस्ते (Namaste)🙏🏻, I am Utkarsh Kumar 👋
+>### नमस्ते (Namaste)🙏🏻, I am Utkarsh Kumar 👋
 
 [![](https://visitcount.itsvg.in/api?id=kutkarshh&icon=0&color=0)](https://visitcount.itsvg.in)
 
