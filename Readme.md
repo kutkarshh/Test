@@ -97,4 +97,4 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 <h3 align="center">Made with :heart: and with the help of other git-stat dev's sources</h3>
 
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Show some support&nbsp;😊👋&nbsp; by starring some of the repositories!</h3>
