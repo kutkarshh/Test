@@ -71,7 +71,6 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 ---
 
-
 ### ✍️ Random Dev Quote
 
 <p align="center" target="_blank">
@@ -86,17 +85,16 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 ---
 
-
 <!--[website]: -->
 
 [linkedin]: https://www.linkedin.com/in/kutkarshh
 [twitter]: https://twitter.com/Kumar6K1
 
-[![https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team\&utm_campaign=oss)
+[![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
 
-Contributions are welcome! <3
-
-Made with :heart: and JavaScript.
+<div align="center">
+<h3 align="center">Contributions are welcome! <3</h3>
+<h3 align="center">Made with :heart: and with the help of other git-stat dev's sources</h3>
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
