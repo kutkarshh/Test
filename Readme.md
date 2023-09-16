@@ -86,12 +86,17 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 
 ---
 
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
 
 [linkedin]: https://www.linkedin.com/in/kutkarshh
 [twitter]: https://twitter.com/Kumar6K1
 
-<a href="https://vercel.com/"><img alt="Powered by Vercel" title="Powered by Vercel" src="https://img.shields.io/badge/-Powered%20by%20Vercel-6567a5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+[![https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team\&utm_campaign=oss)
+
+Contributions are welcome! <3
+
+Made with :heart: and JavaScript.
+
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
