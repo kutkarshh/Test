@@ -67,17 +67,17 @@ I'm a Full Stack Developer from India 🇮🇳, I have acquired a versatile skil
 #### Top Repositories
 
 <a href="https://github.com/kutkarshh/BookingApp">
-  <img align="right" alt="Utkarsh K | BookingApp"  src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" alt="Utkarsh K | BookingApp"  src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://www.linkedin.com/in/kutkarshh">
-  <img align="right" alt="Utkarsh K | Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" alt="Utkarsh K | Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
-<!-- <br/>
-<br/> -->
+<br/>
+<br/>
 
-<!-- <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3> -->
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
 
